@@ -36,7 +36,7 @@ SHAPEFILE:
   - 'esri file geodatabase'
   - 'esri arcinfo ascii ...'
   - 'esri shapefile (.shp)'
-    - 'esri personal geodatabase (.mdb)'
+  - 'esri personal geodatabase (.mdb)'
 TXT:
   - 'text'
   - 'txt'
