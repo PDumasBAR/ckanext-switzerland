@@ -35,6 +35,8 @@ SHAPEFILE:
   - 'esri geodatabase (....'
   - 'esri file geodatabase'
   - 'esri arcinfo ascii ...'
+  - 'esri shapefile (.shp)'
+    - 'esri personal geodatabase (.mdb)'
 TXT:
   - 'text'
   - 'txt'
@@ -50,6 +52,9 @@ WMS:
   - 'wms'
 WMTS:
   - 'wmts'
+WORLDFILE:
+  - 'jgw)'
+  - 'tfw)'
 XLS:
   - 'xls'
   - 'xlsx'
